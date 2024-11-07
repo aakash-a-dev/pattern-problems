@@ -1,5 +1,20 @@
 
 # Advance Pattern Problems with Solution For Interviews
+
+---
+
+
+## Join Our Community for Updates
+
+Stay up-to-date with the latest news, discussions, and updates! Join our WhatsApp group to connect with the community.
+
+[Join our WhatsApp Group](https://chat.whatsapp.com/BfEl84v9GstK6DoX2O1Vsk)
+[Follow me on Instagram](https://www.instagram.com/aakash.a.dev/)
+[Follow me on X](https://x.com/aakashadev)
+
+---
+
+
 ---
 
 ### Pattern 1: Right-Angled Triangle
